@@ -43,3 +43,8 @@
 [Инструменты ускорения вёрстки](/sections-adaptive/section-9.md)
 
 [FAQ](/sections-adaptive/section-faq.md).
+
+
+
+
+
